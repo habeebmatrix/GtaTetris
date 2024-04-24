@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "GTAFanTetris",
   "resources": {
-    "hash": "sha256-Vf1d1i23FUwWnFa1wn+FAUsEll2yU2NOAXtPF0mslhA=",
+    "hash": "sha256-Sk9t38lGiOhAQUjfqRHdQSneYFcLarvM8ipYHijjKeU=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.p7a4gjdhqk.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "GTAFanTetris.wasm": "sha256-daKyesE31Ji52nEixXWKYVpMn4z9IqsnkQKoNKHDwiQ=",
+      "GTAFanTetris.wasm": "sha256-eCfeJ1jIzfT2o2ndwIdJAxSBdyB73dHHTZEbY6+H4C8=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-t1uK+t/ALSKReQkrFN0Zmf3LhM7Df5Qbhrdp9rnUP5Q=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-JZ5zxuS7nz6d8rj8MlKtG8WhufMjUgUvf4p6b15ZSSA=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-mwwNz/IMHU35BqhBaez63Z01g22S/iPHUXLcAMuyQL4=",
