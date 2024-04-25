@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-DsLotvxk9rCiRHDGr178yjXel4LxsVgsKW926BnZe5w=",
+      "hash": "sha256-0P9sXKM8EnBgxh77WwrKI\/q9U+usDuK49s5ZEb0+cgc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-daKyesE31Ji52nEixXWKYVpMn4z9IqsnkQKoNKHDwiQ=",
+      "hash": "sha256-eCfeJ1jIzfT2o2ndwIdJAxSBdyB73dHHTZEbY6+H4C8=",
       "url": "_framework\/GTAFanTetris.wasm"
     },
     {
@@ -249,7 +249,7 @@
       "url": "images\/tetris\/tetromino-yellow.png"
     },
     {
-      "hash": "sha256-Ld8hIh76ObBPbWG7U5kQhbLK7Aqk1S5snVtEn5zKSXs=",
+      "hash": "sha256-OvNUil9RJ+kl+cvx9C2f8GahedMwqOZZ6rnE7ZrA3Tw=",
       "url": "index.html"
     },
     {
@@ -265,5 +265,5 @@
       "url": "sounds\/tetris-theme.ogg"
     }
   ],
-  "version": "maJJXzQT"
+  "version": "saO4f3W+"
 };
